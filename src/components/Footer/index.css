@@ -1,0 +1,22 @@
+.footer-cont{
+    background-color: rgb(59, 92, 136);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+}
+.foo-heading {
+    font-size: 20px;
+}
+.socialNetwork{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+.soc-items{
+    width: 50px;
+    
+}

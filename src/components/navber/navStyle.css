@@ -1,0 +1,47 @@
+.nav-container {
+    display: flex;
+    align-items: center;
+    border: none ;
+    justify-content: space-between;
+    background-color: rgb(191, 196, 209);
+    padding: 3px;
+    height: 60px;
+}
+.nav-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 30%;
+   
+}
+.main-heading {
+    font-size: 22px;
+    text-decoration: none;
+    color: black;
+}
+
+.info-list{
+    margin-left: 40px;
+    padding-left: 0px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+    cursor: pointer;
+   
+}
+.info-items {
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+}
+.donate-btn {
+    background-color: rgb(172, 74, 29);
+    border: none;
+    
+    height: 30px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 20;
+    cursor: pointer;
+}

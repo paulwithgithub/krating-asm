@@ -1,0 +1,94 @@
+.home-page{
+  
+}
+
+.doctor-bg{
+    height: 50vh;
+    border-radius: 10px;
+  
+  }
+  .doctor-details-container{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .fam-doc-cont{
+    border: 2px solid rgb(81, 156, 179);
+    border-radius: 10px;
+    height: 50vh;
+    width: 40%;
+  }
+  .fam-knowmore-btn{
+    border: 1px solid rgb(81, 156, 179);
+    border-radius: 2px;
+    background-color: transparent;
+    cursor: pointer;
+  }
+
+  .health-carousel-cont{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+  }
+  .health-carousel-card{
+    margin-left: 10px;
+    background-color: rgb(191, 235, 248);
+    border-radius: 10px;
+    height: 40vh;
+    margin-top: 20px;
+    padding: 10px;
+  }
+  .health-card-heading{
+    font-size: 25px;
+    color: rgb(49, 49, 49);
+  }
+  .health-card-list{
+    list-style: none;
+    padding-left: 0px;
+  }
+  .health-card-item{
+    font-weight: 500;
+    line-height: 2;
+  }
+
+  .features-cont {
+    margin-top: 50px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+.feat-card{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(207, 229, 233);
+  padding: 10px;
+  width: 80%;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.fea-card-item{
+ margin-left: 10px;
+}
+.fea-heading{
+  font-size: 25px;
+}
+  .fea-img {
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+  }
+  .fea-card-button{
+    background-color: rgb(113, 158, 168);
+    font-weight: 500;
+    border: none;
+    outline: none;
+    color: white;
+    border-radius: 5px;
+    height: 20px;
+    cursor: pointer;
+  }

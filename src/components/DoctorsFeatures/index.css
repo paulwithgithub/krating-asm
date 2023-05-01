@@ -1,0 +1,92 @@
+.main-bg{
+    background-image: url('https://res.cloudinary.com/dlbaf9ix7/image/upload/v1682588073/doctor-g8138826ac_1920_qwapvq.jpg');
+    height: 80vh;
+    border: 1px solid rgb(180, 208, 216);
+    border-bottom: 0px;
+    
+}
+
+.bg-heading {
+    text-align: right;
+    margin-right: 200px;
+    margin-top: 100px;
+    font-size: 45px;
+    
+}
+.types-consultant-cont{
+    display: flex;
+    justify-content: space-between;
+    height: 120vh;
+}
+.consult-doctor-cont{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 10px;   
+}
+
+.consult-doc-img{
+    width: 100%;
+}
+.home-doc-img{
+    width: 100%;
+    height: 270px;
+}
+.online-doc-img{
+    width: 95%;
+    height: 270px;
+}
+
+
+.userForm {
+    margin-top: 20px;
+}
+
+.nameInputBox{
+    margin-left: 100px;
+    margin-bottom: 5px;
+}
+
+.addressInputBox{
+    margin-left: 90px;
+    margin-bottom: 5px;
+}
+
+.ageInputBox{
+    margin-left: 119px;
+    margin-bottom: 5px;
+}
+
+.aadharInputBox{
+    margin-left: 34px;
+    margin-bottom: 5px;
+}
+
+.numberInputBox{
+    margin-left: 40px;
+    margin-bottom: 5px;
+}
+
+.fillFormBtn{
+    background-color: rgb(80, 126, 179);
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 13px;
+    width: 25%;
+    height: 25px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.submitBtn{
+    background-color: rgb(80, 126, 179);
+    border: none;
+    outline: none;
+    color: #fff;
+    height: 22px;
+    width: 14%;
+    font-size: 13px;
+    border-radius: 3px;
+    cursor: pointer;
+}

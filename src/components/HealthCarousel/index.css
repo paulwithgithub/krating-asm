@@ -1,0 +1,21 @@
+.health-corousel-component{
+  width: 50%;
+}
+.health-carousel{
+  width: 80%;
+  height: 300px;
+  
+}
+
+/* .health {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  } */
+
+  .yoga-Item{
+   width: 500px;
+   height: 300px;
+  }
